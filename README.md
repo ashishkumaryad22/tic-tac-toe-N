@@ -1,5 +1,5 @@
 # tic-tac-toe
-Basic tic-tac-toe game with replay functionality
+tic-tac-toe game with replay functionality
 
 #### Context
 
